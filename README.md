@@ -1,2 +1,2 @@
 # gmail-cracker
-Gmail Cracker Written In python By Parsa Alemi
+Gmail Cracker Written In python By Parsa Alemi using smtplib
